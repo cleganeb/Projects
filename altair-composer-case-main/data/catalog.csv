@@ -1,0 +1,9 @@
+﻿work_id,file,corpus,composer,source,license
+base_01,data/base_corpus/base_01.mid,base,Demo author,demo: generated for notebook,PD
+base_02,data/base_corpus/base_02.mid,base,Demo author,demo: generated for notebook,PD
+base_03,data/base_corpus/base_03.mid,base,Demo author,demo: generated for notebook,PD
+base_04,data/base_corpus/base_04.mid,base,Demo author,demo: generated for notebook,PD
+extra_01,data/extra_corpus/extra_01.mid,extra,Demo romantic profile,demo: generated for notebook,PD
+extra_02,data/extra_corpus/extra_02.mid,extra,Demo romantic profile,demo: generated for notebook,PD
+extra_03,data/extra_corpus/extra_03.mid,extra,Demo romantic profile,demo: generated for notebook,PD
+extra_04,data/extra_corpus/extra_04.mid,extra,Demo romantic profile,demo: generated for notebook,PD
